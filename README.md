@@ -38,3 +38,7 @@ I friend did without hazzle on windows. Another experienced problems with curl
 
 A friend did this without hazzle, so its possible. I have not tried it.
 
+=======
+# workhorse-machine
+With vagrant you can boot an ubuntu with vagrant up
+
